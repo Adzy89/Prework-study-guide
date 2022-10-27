@@ -1,2 +1,2 @@
-# preword-study-guide
+# prework-study-guide
 bootcamp study guide for students
